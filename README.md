@@ -1,10 +1,13 @@
 # Cybertica
 
-A new Flutter project.
+The Local Talent Arena.
 
-## Getting Started
+## About Cybertica
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+The readiness of the younger generation to become experts in the field of technology often occurs with problems, where the talent development process is felt to be insufficient when they are just starting to explore it when they have graduated from college so that many graduates are less competent and qualified. Making more companies decide to recruit foreign workers. the lack of digital talent among young people also hinders the development of brilliant young people's innovations. Because great innovation needs to be realized with great teams and talents so that their ideas will not die before they develop.
+
+Google Solution Challenge 2023
+#GDSCUNKLAB #GoogleDeveloper #GDSC #GoogleDSC #googledeveloperstudentclubs
 
 ### IMPORTANT:
 
